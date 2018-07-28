@@ -1,0 +1,43 @@
+ChainList size = 33
+
+Load factor: 1.050949050949051
+duration 0 : 11405
+numProbes 0 : 1
+duration 0 : 1713
+numProbes 0 : 1
+duration 0 : 2446
+numProbes 0 : 0
+duration 0 : 1908
+numProbes 0 : 0
+duration 0 : 1444
+numProbes 0 : 1
+duration 0 : 1637
+numProbes 0 : 1
+duration 0 : 1552
+numProbes 0 : 0
+duration 0 : 1648
+numProbes 0 : 1
+duration 0 : 1185
+numProbes 0 : 1
+duration 0 : 866
+numProbes 0 : 0
+
+Load factor: 1.050949050949051
+duration 0 : 1486
+numProbes 0 : 1
+duration 0 : 841
+numProbes 0 : 1
+duration 0 : 748
+numProbes 0 : 1
+duration 0 : 763
+numProbes 0 : 1
+duration 0 : 1365
+numProbes 0 : 1
+duration 0 : 1393
+numProbes 0 : 1
+duration 0 : 1214
+numProbes 0 : 0
+duration 0 : 1614
+numProbes 0 : 1
+duration 0 : 1163
+numProbes 0 : 0
